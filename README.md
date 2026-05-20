@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=fogazi42&size=160&backgroundColor=1a1b27" alt="fogazi42" width="160" />
-</p>
+
 
 <h1 align="center">fogazi42</h1>
 
